@@ -1,0 +1,1 @@
+{{'Nghĩa của từ  '.$words. ' là ' . $value}}
